@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- for responsiveness -->
+	<meta "viewport" content="with=device-width, initial-scale=1.0">
+	<!-- the title -->
+	<title>University Website</title>
+	<!-- for css -->
+	<!-- <link rel="stylesheet" href="style.css"> -->
+	<link rel="stylesheet" href="css/style.css">
+
+
+	<!-- link from google font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,600;0,700;0,800;1,200;1,400&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+</head>
+<body>
+<section class="header">
+	<nav>
+		<a href="index.html"><img src="images/logo.png"></a>
+		<div class="nav-links" id="navLinks">
+			<!-- <i class="fa fa-times" onclick="hideMenu()"></i>
+			<ul>
+				<li><a href=""> Home</a></li>
+				<li><a href=""> About</a></li>
+				<li><a href=""> Course</a></li>
+				<li><a href=""> Blog</a></li>
+				<li><a href=""> Contact</a></li>
+			</ul> -->
+		</div>
+		<i class="fa fa-bars" onclick="ShowMenu()" ></i>
+	</nav>
+
+		<div class="text-box">
+		
+			<h1> Coteau Raffin - Mauritius</h1>
+			
+		<!-- 	<a href="" class="hero-btn"> Click for more details</a> -->
+
+
+		</div>
+
+
+
+
+
+	
+</section>
+
+<section class="courses">
+	
+		<h1> Courses</h1>
+		<p>courses we offer diploma postgraduate master phd soctor etccccccccccccccccccn jnjnodnosndoinsiono</p>
+
+<div class="row">
+	<div class="courses-col">
+		<h3>Diploma</h3>
+			<p>hello my name ir kvbjkdbfisb abfnujnfjkd jf;fdfujndfuo jdnfundfiod jnjfdnjndfnsd jkndfjndofnods jkndfjndojsnf</p>
+	</div>
+	<div class="courses-col">
+		<h3>Degree</h3>
+			<p>hello my name ir kvbjkdbfisb abfnujnfjkd jf;fdfujndfuo jdnfundfiod jnjfdnjndfnsd jkndfjndofnods jkndfjndojsnf</p>
+	</div>
+	<div class="courses-col">
+		<h3>Master</h3>
+			<p>hello my name ir kvbjkdbfisb abfnujnfjkd jf;fdfujndfuo jdnfundfiod jnjfdnjndfnsd jkndfjndofnods jkndfjndojsnf</p>
+	</div>
+</div>
+
+
+</section>
+
+<section class="campus">
+	<h1>Campus</h1>
+	<p>helooknnxoncdsnc jsdncndoncosd njcdosncjsndcosnd ncjndcncos njcodsncosncosn</p>
+
+
+<div class="row">
+	<div class="campus-col">
+		<img src="images/campus.jpg">
+		<div class="layer">
+			
+			<h3>Campus</h3>
+		</div>
+	</div>
+		<div class="campus-col">
+		<img src="images/ress.jpg">
+		<div class="layer">
+			
+			<h3>ress</h3>
+		</div>
+			</div>
+			<div class="campus-col">
+		<img src="images/lol.jpg">
+		<div class="layer">
+			
+			<h3>lol</h3>
+		</div>
+	</div>
+
+
+
+	</div>
+	
+
+
+</div>
+
+
+
+
+</section>
+
+
+
+
+<section class="facilities">
+		
+		<h1>FAcilities</h1>
+		<p>ndgingoiwarngondsfndskndlgndnodnsGnduing JAONFJODANFONADFOUNF NFIOSANFIAFIOAFIOANFOIAS JANFASNFOIANFIOAF NKOANFOANFONAFO</p>
+
+			<div class="row">
+				
+				<div class="facilities-col">
+					<img src="images/library.jpg">
+					<h3>Best</h3>
+					<p>ncjidsnvodsnvosd ijcoandfaonfoa jdnfoandfoanof njodnfdpfnpf nfonfipanpfv</p>
+				</div>
+				<div class="facilities-col">
+					<img src="images/bli.jpg">
+					<h3>bli</h3>
+					<p>ncjidsnvodsnvosd ijcoandfaonfoa jdnfoandfoanof njodnfdpfnpf nfonfipanpfv</p>
+				</div>
+
+<div class="facilities-col">
+					<img src="images/lib.jpg">
+					<h3>lib</h3>
+					<p>ncjidsnvodsnvosd ijcoandfaonfoa jdnfoandfoanof njodnfdpfnpf nfonfipanpfv</p>
+				</div>
+
+
+
+			</div>
+
+
+
+
+
+</section>
+<section class="test">
+	<h1>Text</h1>
+	<p>hsbfisbfjsoanfojsanfojsnafojasnof</p>
+
+<div class="row">
+	<div class="test-col">
+		
+			<img src="images/user.jpg">
+			<div>
+				<p>ioajsfiojfoiad jfoajfpijadpfja fipjafajdfoja jfapjfpaf jipajfpiasf</p>
+
+				<h3>Maria</h3>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star-o" ></i>
+
+
+			</div>
+
+
+	</div>
+	<div class="test-col">
+		
+			<img src="images/user1.jpg">
+			<div>
+				<p>ioajsfiojfoiad jfoajfpijadpfja fipjafajdfoja jfapjfpaf jipajfpiasf</p>
+
+				<h3>JOn</h3>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star-half-o" ></i>
+
+
+			</div>
+
+
+	</div>
+	
+</div>
+
+
+
+
+</section>
+
+<section class="action">
+	<h1>Enroll</h1>
+	<p>vkvjvjhvkhvkvhkv</p>
+	<a href="" class="hero-btn">Contact us </a>
+	
+
+
+
+
+
+
+
+
+</section>
+<section class="footer">
+	<h4>About us</h4>
+	<p>fvfvjvfjyhg gygyggigik  uhoiiolhi vygugkuuk guguguguyfyfy gguiguigugub buhgugig bugugugugugoug</p>
+
+<div class="icons">
+	<i class="fa fa-facebook" ></i>
+	<i class="fa fa-twitter" ></i>
+	<i class="fa fa-instagram" ></i>
+	<i class="fa fa-linkedin" ></i>
+
+
+
+
+</div>
+
+
+
+
+
+</section>
+
+<!-- for togglr menu -->
+<script>
+	
+
+	var navLinks = document.getElementById("navLinks");
+		function ShowMenu(){
+			navLinks.style.right="0";
+
+
+		}
+
+	function hideMenu(){
+			navLinks.style.right="-200px";
+
+
+		}
+
+
+
+
+</script>
+
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- for responsiveness -->
+	<meta "viewport" content="with=device-width, initial-scale=1.0">
+	<!-- the title -->
+	<title>University Website</title>
+	<!-- for css -->
+	<!-- <link rel="stylesheet" href="style.css"> -->
+	<link rel="stylesheet" href="css/style.css">
+
+
+	<!-- link from google font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,600;0,700;0,800;1,200;1,400&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+</head>
+<body>
+<section class="header">
+	<nav>
+		<a href="index.html"><img src="images/logo.png"></a>
+		<div class="nav-links" id="navLinks">
+			<!-- <i class="fa fa-times" onclick="hideMenu()"></i>
+			<ul>
+				<li><a href=""> Home</a></li>
+				<li><a href=""> About</a></li>
+				<li><a href=""> Course</a></li>
+				<li><a href=""> Blog</a></li>
+				<li><a href=""> Contact</a></li>
+			</ul> -->
+		</div>
+		
+	</nav>
+
+		<div class="text-box">
+		
+			<h1> Coteau Raffin - Mauritius</h1>
+			
+		<!-- 	<a href="" class="hero-btn"> Click for more details</a> -->
+
+
+		</div>
+
+
+
+
+
+	
+</section>
+
+<!-- <section class="courses">
+	
+		<h1> Courses</h1>
+		<p>courses we offer diploma postgraduate master phd soctor etccccccccccccccccccn jnjnodnosndoinsiono</p>
+
+<div class="row">
+	<div class="courses-col">
+		<h3>Diploma</h3>
+			<p>hello my name ir kvbjkdbfisb abfnujnfjkd jf;fdfujndfuo jdnfundfiod jnjfdnjndfnsd jkndfjndofnods jkndfjndojsnf</p>
+	</div>
+	<div class="courses-col">
+		<h3>Degree</h3>
+			<p>hello my name ir kvbjkdbfisb abfnujnfjkd jf;fdfujndfuo jdnfundfiod jnjfdnjndfnsd jkndfjndofnods jkndfjndojsnf</p>
+	</div>
+	<div class="courses-col">
+		<h3>Master</h3>
+			<p>hello my name ir kvbjkdbfisb abfnujnfjkd jf;fdfujndfuo jdnfundfiod jnjfdnjndfnsd jkndfjndofnods jkndfjndojsnf</p>
+	</div>
+</div>
+
+
+</section> -->
+
+<section class="campus">
+	<h1>Garden</h1>
+	<p>helooknnxoncdsnc jsdncndoncosd njcdosncjsndcosnd ncjndcncos njcodsncosncosn</p>
+
+
+<div class="row">
+	<div class="campus-col">
+		<img src="images/m17.jpg">
+		<div class="layer">
+			
+			<h3>Chili</h3>
+		</div>
+	</div>
+		<div class="campus-col">
+		<img src="images/m10.jpg">
+		<div class="layer">
+			
+			<h3>Lettuce</h3>
+		</div>
+			</div>
+			<div class="campus-col">
+		<img src="images/m5.jpg">
+		<div class="layer">
+			
+			<h3>Bok Choy</h3>
+		</div>
+	</div>
+
+
+
+	</div>
+	<div class="row">
+	<div class="campus-col">
+		<img src="images/a.jpg">
+		<div class="layer">
+			
+			<h3>Dwarf Umbrella Tree</h3>
+		</div>
+	</div>
+		<div class="campus-col">
+		<img src="images/d.jpg">
+		<div class="layer">
+			
+			<h3>Golden Dewdrops</h3>
+		</div>
+			</div>
+			<div class="campus-col">
+		<img src="images/o.jpg">
+		<div class="layer">
+			
+			<h3>Field Pumpkin</h3>
+		</div>
+	</div>
+
+
+
+	</div>
+	<div class="row">
+	<div class="campus-col">
+		<img src="images/f.jpg">
+		<div class="layer">
+			
+			<h3>Chili</h3>
+		</div>
+	</div>
+		<div class="campus-col">
+		<img src="images/g.jpg">
+		<div class="layer">
+			
+			<h3>Lettuce</h3>
+		</div>
+			</div>
+			<div class="campus-col">
+		<img src="images/h.jpg">
+		<div class="layer">
+			
+			<h3>Golden Apple</h3>
+		</div>
+	</div>
+
+
+
+	</div>
+	<div class="row">
+	<div class="campus-col">
+		<img src="images/i.jpg">
+		<div class="layer">
+			
+			<h3>Chili</h3>
+		</div>
+	</div>
+		<div class="campus-col">
+		<img src="images/k.jpg">
+		<div class="layer">
+			
+			<h3>Lucuma</h3>
+		</div>
+			</div>
+			<div class="campus-col">
+		<img src="images/l.jpg">
+		<div class="layer">
+			
+			<h3>Coconut Tree</h3>
+		</div>
+	</div>
+
+
+
+	</div>
+	<div class="row">
+	<div class="campus-col">
+		<img src="images/m.jpg">
+		<div class="layer">
+			
+			<h3>Taro Leaves</h3>
+		</div>
+	</div>
+		<div class="campus-col">
+		<img src="images/c.jpg">
+		<div class="layer">
+			
+			<h3>Lettuce</h3>
+		</div>
+			</div>
+			<div class="campus-col">
+		<img src="images/n.jpg">
+		<div class="layer">
+			
+			<h3>Banana Tress</h3>
+		</div>
+	</div>
+
+
+
+	</div>
+	<div class="row">
+	<div class="campus-col">
+		<img src="images/q.jpg">
+		<div class="layer">
+			
+			<h3>Okra</h3>
+		</div>
+	</div>
+		<div class="campus-col">
+		<img src="images/r.jpg">
+		<div class="layer">
+			
+			<h3>Curry Leaves</h3>
+		</div>
+			</div>
+			<div class="campus-col">
+		<img src="images/t.jpg">
+		<div class="layer">
+			
+			<h3>Soursop</h3>
+		</div>
+	</div>
+
+
+
+	</div>
+	
+
+
+</div>
+
+
+
+
+</section>
+
+
+
+
+<!-- <section class="facilities">
+		
+		<h1>FAcilities</h1>
+		<p>ndgingoiwarngondsfndskndlgndnodnsGnduing JAONFJODANFONADFOUNF NFIOSANFIAFIOAFIOANFOIAS JANFASNFOIANFIOAF NKOANFOANFONAFO</p>
+
+			<div class="row">
+				
+				<div class="facilities-col">
+					<img src="images/library.jpg">
+					<h3>Best</h3>
+					<p>ncjidsnvodsnvosd ijcoandfaonfoa jdnfoandfoanof njodnfdpfnpf nfonfipanpfv</p>
+				</div>
+				<div class="facilities-col">
+					<img src="images/bli.jpg">
+					<h3>bli</h3>
+					<p>ncjidsnvodsnvosd ijcoandfaonfoa jdnfoandfoanof njodnfdpfnpf nfonfipanpfv</p>
+				</div>
+
+<div class="facilities-col">
+					<img src="images/lib.jpg">
+					<h3>lib</h3>
+					<p>ncjidsnvodsnvosd ijcoandfaonfoa jdnfoandfoanof njodnfdpfnpf nfonfipanpfv</p>
+				</div>
+
+
+
+			</div>
+
+
+
+
+
+</section>
+<section class="test">
+	<h1>Text</h1>
+	<p>hsbfisbfjsoanfojsanfojsnafojasnof</p>
+
+<div class="row">
+	<div class="test-col">
+		
+			<img src="images/user.jpg">
+			<div>
+				<p>ioajsfiojfoiad jfoajfpijadpfja fipjafajdfoja jfapjfpaf jipajfpiasf</p>
+
+				<h3>Maria</h3>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star-o" ></i>
+
+
+			</div>
+
+
+	</div>
+	<div class="test-col">
+		
+			<img src="images/user1.jpg">
+			<div>
+				<p>ioajsfiojfoiad jfoajfpijadpfja fipjafajdfoja jfapjfpaf jipajfpiasf</p>
+
+				<h3>JOn</h3>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star" ></i>
+				<i class="fa fa-star-half-o" ></i>
+
+
+			</div>
+
+
+	</div>
+	
+</div>
+
+
+
+
+</section>
+
+<section class="action">
+	<h1>Enroll</h1>
+	<p>vkvjvjhvkhvkvhkv</p>
+	<a href="" class="hero-btn">Contact us </a>
+	
+
+
+
+
+
+
+
+
+</section> -->
+<section class="footer">
+	<h4>About us</h4>
+	<p>fvfvjvfjyhg gygyggigik  uhoiiolhi vygugkuuk guguguguyfyfy gguiguigugub buhgugig bugugugugugoug</p>
+
+<div class="icons">
+	<i class="fa fa-facebook" ></i>
+	<i class="fa fa-twitter" ></i>
+	<i class="fa fa-instagram" ></i>
+	<i class="fa fa-linkedin" ></i>
+
+
+
+
+</div>
+
+
+
+
+
+</section>
+
+<!-- for togglr menu -->
+<!-- <script>
+	
+
+	var navLinks = document.getElementById("navLinks");
+		function ShowMenu(){
+			navLinks.style.right="0";
+
+
+		}
+
+	function hideMenu(){
+			navLinks.style.right="-200px";
+
+
+		}
+
+
+
+
+</script>
+ -->
+
+
+</body>
+</html>
